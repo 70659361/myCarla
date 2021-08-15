@@ -1,0 +1,62 @@
+{
+    "root": {
+        "data": {
+            "id": "cdk4s6cqkz40",
+            "created": 1629035197428,
+            "text": "AD"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cdk4slz96co0",
+                    "created": 1629035231441,
+                    "text": "Perception",
+                    "layout_mind_offset": {
+                        "x": -72,
+                        "y": -56
+                    },
+                    "layout_right_offset": {
+                        "x": -44,
+                        "y": -4
+                    }
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cdk4svs0ycg0",
+                    "created": 1629035252772,
+                    "text": "Planning",
+                    "layout_mind_offset": {
+                        "x": -58,
+                        "y": -36
+                    },
+                    "layout_right_offset": {
+                        "x": -44,
+                        "y": -4
+                    }
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cdk4t57stn40",
+                    "created": 1629035273317,
+                    "text": "Executing",
+                    "layout_mind_offset": {
+                        "x": 326,
+                        "y": 85
+                    },
+                    "layout_right_offset": {
+                        "x": -44,
+                        "y": -4
+                    }
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
